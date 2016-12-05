@@ -15,9 +15,7 @@
     "gulp-webpack": "^1.5.0",
     "jsx-loader": "^0.13.2",
     "path": "^0.12.7",
-    "webpack": "^1.13.2",
-    "webpack-dev-middleware": "^1.6.1",
-    "webpack-hot-middleware": "^2.12.2"
+    "webpack": "^1.13.3"
   },
   "license": "Apache 2",
   "scripts": {
